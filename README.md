@@ -6,12 +6,12 @@
 1. purchase_data.csv in the Resources folder
 2. HeroesOfPymoli.ipynb file
 3. screenshots of scripts and corresponding outputs in Images folder
-  * 3a [Purchasing Analysis (Total)](https://github.com/tratnikc/pandas-challenge/blob/main/HeroesOfPymoli/Images/Purchasing%20Analysis%20(Total).png)
-  * 3b [Purchasing Analysis (Gender)](https://github.com/tratnikc/pandas-challenge/blob/main/HeroesOfPymoli/Images/Purchasing%20Analysis%20(Gender)%20-%20output.png)
-  * 3c [Purchasing Analysis (Age)](https://github.com/tratnikc/pandas-challenge/blob/main/HeroesOfPymoli/Images/Purchasing%20Analysis%20(Age)%20-%20output.png)
-  * 3d [Top Spenders](https://github.com/tratnikc/pandas-challenge/blob/main/HeroesOfPymoli/Images/Top%20Spenders%20-%20output.png)
-  * 3e [Most Popular Items](https://github.com/tratnikc/pandas-challenge/blob/main/HeroesOfPymoli/Images/Most%20Popular%20Items%20-%20output.png)
-  * 3f  [Most Profitable items](https://github.com/tratnikc/pandas-challenge/blob/main/HeroesOfPymoli/Images/Most%20Profitable%20Items.png)
+   3a. [Purchasing Analysis (Total)](https://github.com/tratnikc/pandas-challenge/blob/main/HeroesOfPymoli/Images/Purchasing%20Analysis%20(Total).png)
+   3b [Purchasing Analysis (Gender)](https://github.com/tratnikc/pandas-challenge/blob/main/HeroesOfPymoli/Images/Purchasing%20Analysis%20(Gender)%20-%20output.png)
+   3c [Purchasing Analysis (Age)](https://github.com/tratnikc/pandas-challenge/blob/main/HeroesOfPymoli/Images/Purchasing%20Analysis%20(Age)%20-%20output.png)
+   3d [Top Spenders](https://github.com/tratnikc/pandas-challenge/blob/main/HeroesOfPymoli/Images/Top%20Spenders%20-%20output.png)
+   3e [Most Popular Items](https://github.com/tratnikc/pandas-challenge/blob/main/HeroesOfPymoli/Images/Most%20Popular%20Items%20-%20output.png)
+   3f  [Most Profitable items](https://github.com/tratnikc/pandas-challenge/blob/main/HeroesOfPymoli/Images/Most%20Profitable%20Items.png)
   
 ### Requirements
 * Analyze the purchasing data for the most recent fantasy game Heroes of Pymoli for an independent gaming company.
