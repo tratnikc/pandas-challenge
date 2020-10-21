@@ -1,5 +1,5 @@
 Analysis
-Based on the purchase data provided
+Based on the purchase data provided where there are 179 items with an average price of $3.05 per item, 780 purchases have been made making a total revenue of $2,379.77, here are my conclusions:
 1. A huge majority of players are male, who also made most of the purchases. But, average spending for each female player is higher than average spending for each male player.
 2. Almost half of the total purchases are made by players aged between 20 to 24 years old. Average spending for each player in different age groups is less than five dollars ($5.00).
 3. The most popular item is also the most profitable item.
