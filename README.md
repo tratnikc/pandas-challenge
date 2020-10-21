@@ -22,7 +22,7 @@
 * Calculate average purchase price, total purchase value, and average total purchase per person.
 
 
-## Analysis
+# Analysis
 Based on the purchase data provided
 1. A huge majority of players are male, who also made most of the purchases. But, average spending for each female player is higher than average spending for each male player.
 2. Almost half of the total purchases are made by players aged between 20 to 24 years old. Average spending for each player in different age groups is less than five dollars ($5.00).
