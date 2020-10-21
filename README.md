@@ -5,7 +5,7 @@
 ### included:
 1. purchase_data.csv in the Resources folder
 2. HeroesOfPymoli.ipynb file
-3. [Analysis]() based on the data at the end of this readme 
+3. [Analysis](https://github.com/tratnikc/pandas-challenge/blob/main/pandas-challenge%20analysis.txt) based on the data at the end of this readme 
 4. screenshots of scripts and corresponding outputs in Images folder
    * 3a. [Purchasing Analysis (Total)](https://github.com/tratnikc/pandas-challenge/blob/main/HeroesOfPymoli/Images/Purchasing%20Analysis%20(Total).png)
    * 3b [Purchasing Analysis (Gender)](https://github.com/tratnikc/pandas-challenge/blob/main/HeroesOfPymoli/Images/Purchasing%20Analysis%20(Gender)%20-%20output.png)
