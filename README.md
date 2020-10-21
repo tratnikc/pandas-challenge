@@ -4,8 +4,9 @@
 
 ### included:
 1. purchase_data.csv in the Resources folder
-2. HeroesOfPymoli.html file
-3. HeroesOfPymoli.ipynb file
+2. HeroesOfPymoli.ipynb file
+3. screenshots of scripts and corresponding outputs in Images folder
+  * 3a [Purchasing Analysis (Total)]()
 
 ### Requirements
 * Analyze the purchasing data for the most recent fantasy game Heroes of Pymoli for an independent gaming company.
